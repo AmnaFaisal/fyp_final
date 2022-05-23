@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fyp_final/static/css/main.a9ebac9c.css",
+    "main.js": "/fyp_final/static/js/main.07f626a0.js",
+    "static/js/787.717e2bc1.chunk.js": "/fyp_final/static/js/787.717e2bc1.chunk.js",
+    "index.html": "/fyp_final/index.html",
+    "main.a9ebac9c.css.map": "/fyp_final/static/css/main.a9ebac9c.css.map",
+    "main.07f626a0.js.map": "/fyp_final/static/js/main.07f626a0.js.map",
+    "787.717e2bc1.chunk.js.map": "/fyp_final/static/js/787.717e2bc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9ebac9c.css",
+    "static/js/main.07f626a0.js"
+  ]
+}
